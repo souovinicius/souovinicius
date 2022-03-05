@@ -17,7 +17,7 @@
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://c.tenor.com/Z_gTwe7kSsEAAAAC/saitama-running.gif">
 </div>
 
-## ------------------------------
+##
 
 
 [![LinKedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcosvpsousa/)
