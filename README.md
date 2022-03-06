@@ -1,6 +1,5 @@
-
-### Apenas um cara mediano que serve como um programador mediano. 
-### Prazer, meu nome é Vinicius 👊🏻👨🏻‍🦲
+ 
+### Hello, my name is Vinicius!
 
 <div align="center">
   <a href="https://github.com/souovinicius">
